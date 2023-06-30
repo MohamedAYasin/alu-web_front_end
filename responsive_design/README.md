@@ -1,3 +1,5 @@
+![Techium](https://github.com/MohamedAYasin/alu-web_front_end/assets/116743995/375f288d-61a1-4887-851f-5331a6d4aca3)
+
 # Responsive Design Website Techium
 
 This is a responsive designed website I built using HTML and CSS. It is a brand called Techium that offers different services.
