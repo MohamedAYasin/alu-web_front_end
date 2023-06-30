@@ -2,7 +2,8 @@
 
 # Responsive Design Website Techium
 
-This is a responsive designed website I built using HTML and CSS. It is a brand called Techium that offers different services.
+- This is a responsive designed website I built using HTML and CSS.
+- It is a brand called Techium that offers different services.
 
 - [Features](#features)
 - [Prerequisites](#prerequisites)
@@ -25,10 +26,10 @@ This is a responsive designed website I built using HTML and CSS. It is a brand 
 - A README.md at the root of the project directory is mandatory
 - HTML and CSS have been rendered on Chrome 78 or more.
 
-## installation
+## Installation
 
 1. Download the source code as a ZIP file or clone the repository to your local machine.
-2. Open the project in your VS Code or other preferred IDE
+2. Open the project in your VS Code or other preferred IDE.
 3. There you have it!
 
 ## Author
